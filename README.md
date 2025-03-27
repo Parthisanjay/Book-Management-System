@@ -1,6 +1,8 @@
 # Book-Management-System
 Digital Library Book Management System
 
+Deployment Link https://github.com/Parthisanjay/Book-Management-System/releases/download/V1.0/Book_Library.jar
+
 Description
 
 This is a simple Library Management System implemented in Java. It allows users to perform CRUD (Create, Read, Update, Delete) operations on books, including adding, viewing, searching, updating, and deleting books from the library.
@@ -66,6 +68,20 @@ Book_Driver class
   --> main() method is presence in this class 
 
   -->To display user friendly console based interface
-      
-      
+
+Run Instructions
+
+--> Get the JAR file from the deployment link below
+
+          https://github.com/Parthisanjay/Book-Management-System/releases/download/V1.0/Book_Library.jar
+
+--> Download and choose the specific directory to save the file
+
+--> Open the specific directory with Terminal window(Command Prompt)
+
+--> Use the below commands to run the Application
+
+             java -jar Book_Library.jar
+
+                        
       
