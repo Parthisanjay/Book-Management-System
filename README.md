@@ -26,28 +26,46 @@ Implementation of Classes
         3.Book_Driver
 
 Book class
+
   --> It is an Entity class
+  
   --> Constructor to initialize instances of Book
+  
   --> Getter and Setter methods to get and set values
+  
   --> Getter and Setter methods to get and set values
+  
   --> toString method is overrided to print Book object values.
 
 Controller class
-    Used for CRUD operations
-    Exception handled and input datas are validated
-    There are 7 Methods in this class
-    addbook()      --> To add new Book
-    viewbook()     --> To view all the Stored Books
-    searchbook()   --> To Search a Book by using Id or Title
-    updatebook()   --> To Update fields of Book
-    deletebook()   --> To Delete a Book
-    valid_id()     --> To check Bood id whether it is Unique or Not
-    book_details() --> To validate and get details from the user
+
+  --> Used for CRUD operations
+    
+  --> Exception handled and input datas are validated
+    
+  --> There are 7 Methods in this class
+ 
+  addbook()      --> To add new Book
+    
+  viewbook()     --> To view all the Stored Books
+    
+  searchbook()   --> To Search a Book by using Id or Title
+    
+  updatebook()   --> To Update fields of Book
+    
+  deletebook()   --> To Delete a Book
+    
+  valid_id()     --> To check Bood id whether it is Unique or Not
+    
+  book_details() --> To validate and get details from the user
 
 Book_Driver class
-      It is the Main class for this application
-      main() method is presence in this class 
-      To display user friendly console based interface
+
+  --> It is the Main class for this application
+
+  --> main() method is presence in this class 
+
+  -->To display user friendly console based interface
       
       
       
